@@ -51,4 +51,3 @@
 # Convert 100 into binary
 # And remove the last two bits
 # The output is the right shift
-

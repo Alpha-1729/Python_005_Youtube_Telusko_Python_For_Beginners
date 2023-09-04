@@ -11,7 +11,7 @@
 """
 
 num = [1, 2, 3, 4]
-name = ['naveen', 'raj', 'arch']
+name = ["naveen", "raj", "arch"]
 
 # Nested list.
 content = [num, name]
@@ -48,5 +48,4 @@ num.extend([10, 11, 21, 33])
 num.sort(reverse=True)
 
 # Sort in ascending order.
-num.sort() 
-
+num.sort()

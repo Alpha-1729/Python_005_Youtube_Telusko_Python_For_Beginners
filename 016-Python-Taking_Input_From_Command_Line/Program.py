@@ -24,4 +24,3 @@ print(second_arg)
 # Print the third argument.
 third_arg = sys.argv[2]
 print(third_arg)
-
